@@ -32,3 +32,8 @@
 
 - 정구봉님 (https://www.linkedin.com/in/gb-jeong/)
 
+### Article
+
+- https://blog.huns.site/blog/posts/ai/claude/claude-code-power-user-tips
+- https://claude.com/blog/complete-guide-to-building-skills-for-claude
+
