@@ -56,6 +56,7 @@
 
 - [Claude Code 고수들은 이렇게 쓴다](https://blog.huns.site/blog/posts/ai/claude/claude-code-power-user-tips)
 - [Claude Skills 구축을 위한 완벽 가이드](https://claude.com/blog/complete-guide-to-building-skills-for-claude)
+- [Anthropic 해커톤 우승자의 Claude Code 완전 가이드 70가지 팁](https://drive.google.com/file/d/1x2x1T4lzTISnHGN8nd4KtMhL8iwi6QgU/view)
 
 ### tmux 구성
 
