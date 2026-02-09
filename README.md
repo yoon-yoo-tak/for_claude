@@ -9,7 +9,7 @@
 - Anthropic 블로그 (https://www.anthropic.com/engineering)
 
 ### Plugins
-일단 설치해야하는 plugin
+일단 설치해야하고 보는 plugin
 
 - feature-dev ([official link](https://github.com/anthropics/claude-code/tree/main/plugins/feature-dev)) 
 - serena  ([official link](https://github.com/oraios/serena))
