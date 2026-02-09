@@ -2,6 +2,8 @@
 
 ---
 
+## for_claude
+
 ### Official
 근본은 클로드 공식문서를 보는것
 
@@ -37,20 +39,20 @@
 
 ### DLC
 
-- oh-my-opencode (https://github.com/code-yeongyu/oh-my-opencode)
-- oh-my-claudecode (https://github.com/Yeachan-Heo/oh-my-claudecode)
+- [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+- [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 
 ### Prompt
 
-- everything-claude-code (https://github.com/affaan-m/everything-claude-code)
+- [everything-claude-code](https://github.com/affaan-m/everything-claude-code)
 
 ### Youtube
 
-- 코드팩토리(https://www.youtube.com/@codefactory_official)
+- [코드팩토리](https://www.youtube.com/@codefactory_official)
 
 ### Linkedin
 
-- 정구봉님 (https://www.linkedin.com/in/gb-jeong/)
+- [정구봉님](https://www.linkedin.com/in/gb-jeong/)
 
 ### Article
 
@@ -58,7 +60,11 @@
 - [Claude Skills 구축을 위한 완벽 가이드](https://claude.com/blog/complete-guide-to-building-skills-for-claude)
 - [Anthropic 해커톤 우승자의 Claude Code 완전 가이드 70가지 팁](https://drive.google.com/file/d/1x2x1T4lzTISnHGN8nd4KtMhL8iwi6QgU/view)
 
-### tmux 구성
+
+--- 
+## for_cli
+
+### tmux 구성하기
 
 - https://tmuxai.dev/tmux-config/
 
