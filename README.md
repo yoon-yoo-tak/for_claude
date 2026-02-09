@@ -18,7 +18,7 @@
   - lsp는 ~/.zshrc에 export ENABLE_LSP_TOOL=1 해줘야 lsp mcp server의 모든 기능 사용 가능
 - Superpowers
   <details>
-  <summary>Superpowers</summary>
+  <summary>Superpowers 참고</summary>
   Superpowers: AI 에이전트가 코드부터 짜지 않게 만드는 개발 방법론
   github repo : https://github.com/obra/superpowers
   
