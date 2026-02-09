@@ -3,15 +3,17 @@
 ---
 
 ### Official
+근본은 클로드 공식문서를 보는것
 
 - 클로드 공식문서 (https://code.claude.com/docs/en/overview)
 - Anthropic 블로그 (https://www.anthropic.com/engineering)
 
 ### Plugins
+일단 설치해야하는 plugin
 
-- feature-dev
-- serena
-- context7
+- feature-dev ([official link](https://github.com/anthropics/claude-code/tree/main/plugins/feature-dev)) 
+- serena  ([official link](https://github.com/oraios/serena))
+- context7 ([official link](https://github.com/upstash/context7))
 - lsp
   - lsp는 ~/.zshrc에 export ENABLE_LSP_TOOL=1 해줘야 lsp mcp server의 모든 기능 사용 가능
 - Superpowers
