@@ -14,6 +14,7 @@
 ### Plugins
 일단 설치해야하고 보는 plugin
 
+- claude-hud ([official link](https://github.com/jarrodwatts/claude-hud))
 - feature-dev ([official link](https://github.com/anthropics/claude-code/tree/main/plugins/feature-dev)) 
 - serena  ([official link](https://github.com/oraios/serena))
 - context7 ([official link](https://github.com/upstash/context7))
