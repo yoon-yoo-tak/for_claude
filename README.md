@@ -38,6 +38,9 @@
   </details>
 
 
+### ETC
+- [Ouroboros](https://github.com/Q00/ouroboros)
+
 ### DLC
 
 - [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
