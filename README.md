@@ -10,6 +10,7 @@
 - 클로드 공식문서 (https://code.claude.com/docs/en/overview)
   - 한글판은 최신버전이 반영이 안되는 경우가 있다고 함. 영문판으로 보기
 - Anthropic 블로그 (https://www.anthropic.com/engineering)
+- [CLAUDE의 공식 강의 ](https://anthropic.skilljar.com/)
 
 ### Plugins
 일단 설치해야하고 보는 plugin
